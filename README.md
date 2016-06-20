@@ -49,4 +49,26 @@
 * [Matrix Operations](https://www.youtube.com/watch?v=-5uvdduYNJM)
 
 * **Week 2** 
+* [Examples](https://www.youtube.com/watch?v=FAP7fYbZF0Y)
+* [Matrix Algebra in Practice I](https://www.youtube.com/watch?v=LniqeWOfTQo)
+* [Matrix Algebra in Practice II](https://www.youtube.com/watch?v=eRXzsXh78rE)
+* [Standard Errors](https://www.youtube.com/watch?v=9rm-y_iYbnw)
+
+* **Week 3**
+* [Linear Models as Matrix Multiplication I](https://www.youtube.com/watch?v=gP7mgpli5t4)
+* [Linear Models as Matrix Multiplication II](https://www.youtube.com/watch?v=pw7I70rlkdM)
+* [Expressing Experimental Designs](https://www.youtube.com/watch?v=KpSS2e4Y24w)
+* [Linear Models in Practice I](https://www.youtube.com/watch?v=xCdSyc3K3Ew)
+* [Linear Models in Practice II](https://www.youtube.com/watch?v=Opa8i0QxKCo)
+* [Fitting Linear Models and Testing](https://www.youtube.com/watch?v=TSOzvcAgV70)
+
+* **Week 4**
+* [Interactions and Contrasts I](https://www.youtube.com/watch?v=Wa1QkyF4peU)
+* [Interactions and Contrasts II](https://www.youtube.com/watch?v=ZU5jb86vXag)
+* [Interactions and Contrasts III](https://www.youtube.com/watch?v=wSJ3yuPiAbg)
+* [Interactions and Contrasts IV](https://www.youtube.com/watch?v=bBmhUyOmeZc)
+* [Interactions and Contrasts V](https://www.youtube.com/watch?v=pTPxxU6Zslc)
+* [Collinearity](https://www.youtube.com/watch?v=dyzbzbUHZHY)
+* [QR Factorization](https://www.youtube.com/watch?v=yL3lrirzNnQ)
 * 
+
