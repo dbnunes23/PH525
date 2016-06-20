@@ -20,6 +20,14 @@
 * [Central Limit Theorem](https://www.youtube.com/watch?v=aYA8ZG-ltqQ)
 * [Central Limit Theorem](https://www.youtube.com/watch?v=QOeoxOgYpzU)
 * [t-tests in Practice](https://www.youtube.com/watch?v=KEMJIG2gOv4)
-* 
+* [t-tests in Practice](https://www.youtube.com/watch?v=IzFDBnbhDbA)
 
+* **Week 3** 
+* [Introduction to Inference](https://www.youtube.com/watch?v=Os5ph7S06_A)
+* [Confidence Intervals](https://www.youtube.com/watch?v=XnATNhJrX8U)
+* [Power Calculations](https://www.youtube.com/watch?v=UV03oh4I55w)
+* [Monte Carlo](https://www.youtube.com/watch?v=HMkuyuP-jsI)
+* [Association Tests](https://www.youtube.com/watch?v=h8Rn7rr9M34)
+
+* **Week 4** 
 
