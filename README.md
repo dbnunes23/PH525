@@ -30,4 +30,17 @@
 * [Association Tests](https://www.youtube.com/watch?v=h8Rn7rr9M34)
 
 * **Week 4** 
+* [Histogram](https://www.youtube.com/watch?v=UaXYRf6qtEg)
+* [QQ-plot](https://www.youtube.com/watch?v=5F62EwMF26c)
+* [Boxplot](https://www.youtube.com/watch?v=Hh-Pd23OmVo)
+* [Scatterplot](https://www.youtube.com/watch?v=dmJzInKpuRE)
+* [Symmetry of Log Ratios](https://www.youtube.com/watch?v=kxW4bCrYvco)
+* [Plots to Avoid](https://www.youtube.com/watch?v=p-dYnSbBTa8)
+* [Avoid Pseudo 3D](https://www.youtube.com/watch?v=15dRwC-gP0Q)
+* [Median, Mad, and Spearman Correlation](https://www.youtube.com/watch?v=vLDxz51pLZQ)
+* [Mann-Whitney-Wilcoxon Test](https://www.youtube.com/watch?v=3WKOnz6L1Fc)
+* 
 
+## PH525.2
+* **Week 1** 
+* 
