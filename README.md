@@ -14,6 +14,6 @@
 * [Motivation](https://www.youtube.com/watch?v=6nvhFgmrvLE)
 * [Introduction to Random Variables](https://www.youtube.com/watch?v=AxJf1nXrW8U)
 * [Introduction to Null Distributions](https://www.youtube.com/watch?v=G5ZjYy1vS8k)
-
+[Probability Distributions](https://www.youtube.com/watch?v=govBS0uJ9GA)
 
 
