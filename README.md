@@ -16,5 +16,10 @@
 * [Introduction to Null Distributions](https://www.youtube.com/watch?v=G5ZjYy1vS8k)
 * [Probability Distributions](https://www.youtube.com/watch?v=govBS0uJ9GA)
 * [Normal Distribution](https://www.youtube.com/watch?v=fwaxgik7aj4)
+* [Populations, Samples and Estimates](https://www.youtube.com/watch?v=99WNX608k0Y)
+* [Central Limit Theorem](https://www.youtube.com/watch?v=aYA8ZG-ltqQ)
+* [Central Limit Theorem](https://www.youtube.com/watch?v=QOeoxOgYpzU)
+* [t-tests in Practice](https://www.youtube.com/watch?v=KEMJIG2gOv4)
+* 
 
 
