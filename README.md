@@ -87,7 +87,7 @@
 * **Week 3**
 * [Introduction to Statistical Models](https://www.youtube.com/watch?v=G0kHJgp4WHI)
 * [Poisson Example from RNA-seq](https://www.youtube.com/watch?v=KuxRYdG1EdQ)
-* [Maximum Likelihood Estimate](ttps://www.youtube.com/watch?v=5gRv65ULTYI)
+* [Maximum Likelihood Estimate](https://www.youtube.com/watch?v=5gRv65ULTYI)
 * [Models for Variance](https://www.youtube.com/watch?v=GCxezZ6iI6I)
 
 * **Week 4**
