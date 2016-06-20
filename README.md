@@ -99,3 +99,38 @@
 ## PH525.4
 * **Week 1**
 * [Introduction](https://www.youtube.com/watch?v=sBgMdGUTYWY)
+* [Distance](https://www.youtube.com/watch?v=QYlggeDGLmc)
+* [Distance (in practice)](https://www.youtube.com/watch?v=B0MFoHr23u8)
+* [Distance Reduction Motivation](https://www.youtube.com/watch?v=uu964pCDGaw)
+ 
+* **Week 2**
+* [Projections](https://www.youtube.com/watch?v=yPecNb3-UXw)
+* [Rotations](https://www.youtube.com/watch?v=QYbeZXKQsCc)
+* [SVD](https://www.youtube.com/watch?v=5K-h9eOilsg)
+* [MDS](https://www.youtube.com/watch?v=RKncuSbrF_o)
+* [PCA](https://www.youtube.com/watch?v=-bbLn9tv7i8)
+
+* **Week 3**
+* [Clustering](https://www.youtube.com/watch?v=NqH8kUfsFGc)
+* [How Randomness Affects Clustering](https://www.youtube.com/watch?v=waqcU-Lxc-I)
+* [Hiearchichal Clustering in R](https://www.youtube.com/watch?v=3OB4_th9UsA)
+* [K-Means](https://www.youtube.com/watch?v=pBYANQH9lLc)
+* [K-Means Clustering in R](https://www.youtube.com/watch?v=4qODn72BvTo)
+* [Heat Maps in R](https://www.youtube.com/watch?v=Ffu-Bt_VDEs)
+* [Gene Clustering](https://www.youtube.com/watch?v=yMubXDjw4Bw)
+* [Conditional Expectations](https://www.youtube.com/watch?v=EzGuqhf5XJU)
+* [Example: Linear Regression](https://www.youtube.com/watch?v=hRFYRsWJr3k)
+* [Smoothing](https://www.youtube.com/watch?v=6n0a0H24aJ8)
+* [K-Nearest Neighbors](https://www.youtube.com/watch?v=bNa9kGXFP2s)
+* [Cross Validation](https://www.youtube.com/watch?v=5Oxd690dd_0)
+
+* **Week 4**
+* [Confounding](https://www.youtube.com/watch?v=aqUpNV8pgRs)
+* [Confounding in Genomics](https://www.youtube.com/watch?v=f8IM3KfUCH0)
+* [EDA with PCA](https://www.youtube.com/watch?v=4Gnxh5HgJlM)
+* [Modeling Batch Effects](https://www.youtube.com/watch?v=QE5Qev9AdE8)
+* [ComBat](https://www.youtube.com/watch?v=YqoG1wt5ZdU)
+* [Factor Analysis](https://www.youtube.com/watch?v=0ixPQr7-eYk)
+* [Motivating Factor Analysis](https://www.youtube.com/watch?v=_7agXi7xdwE)
+* [Surrogate Variable Analysis (SVA)](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow)
+
