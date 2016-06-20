@@ -13,9 +13,7 @@
 * **Week 2** 
 * [Motivation](https://www.youtube.com/watch?v=6nvhFgmrvLE)
 * [Introduction to Random Variables](https://www.youtube.com/watch?v=AxJf1nXrW8U)
+* [Introduction to Null Distributions](https://www.youtube.com/watch?v=G5ZjYy1vS8k)
 
-* **MagIC** uses Chebyshev polynomials in the radial direction and spherical harmonic decomposition in the azimuthal and latitudinal directions. The time-stepping scheme relies on a semi-implicit [Crank-Nicolson]( https://en.wikipedia.org/wiki/Crank–Nicolson_method) for the linear terms of the MHD equations and a [Adams-Bashforth](<https://en.wikipedia.org/wiki/Linear_multistep_method) scheme for the non-linear terms and the Coriolis force.  
 
-* **MagIC** is written in Fortran and designed to be used on supercomputing clusters.  It thus relies on a hybrid parallelisation scheme using both [OpenMP](http://openmp.org/wp/) and [MPI](http://www.open-mpi.org/). Postprocessing functions written in python (requiring [matplotlib](http://matplotlib.org/) and [scipy](http://www.scipy.org/) are also provided to allow a useful data analysis.  
 
-* **MagIC** is a free software. It can be used, modified and redistributed under the terms of the [GNU GPL v3 licence](http://www.gnu.org/licenses/gpl-3.0.en.html).
