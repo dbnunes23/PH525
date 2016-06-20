@@ -1,7 +1,7 @@
 # PH525
 ## The following page includes the links to all youtube videos for the first four courses in the PH525 Data Analysis series. 
-## PH525.1
 
+## PH525.1
 * **Week 1** 
 * [Getting Started with R](https://www.youtube.com/watch?v=p8F_wreHTzw)
 * [GitHub](https://www.youtube.com/watch?v=HSXwLm6txoo)
@@ -70,5 +70,32 @@
 * [Interactions and Contrasts V](https://www.youtube.com/watch?v=pTPxxU6Zslc)
 * [Collinearity](https://www.youtube.com/watch?v=dyzbzbUHZHY)
 * [QR Factorization](https://www.youtube.com/watch?v=yL3lrirzNnQ)
-* 
 
+## PH525.3
+* **Week 1**
+* [An Example of High-throughput Data](https://www.youtube.com/watch?v=ujAU9T9QX24)
+* [The challenge of multiple testing](https://www.youtube.com/watch?v=yobqXdAts14)
+* [p-values Are Random Variables](https://www.youtube.com/watch?v=EASx5PljTW8)
+
+* **Week 2**
+* [Error Rates and Procedures](https://www.youtube.com/watch?v=r_pjo-kuotQ)
+* [Error Rates and Procedures Examples](https://www.youtube.com/watch?v=pn3UllO26FE)
+* [Bonferroni Correction](https://www.youtube.com/watch?v=X6R1pptBHZA)
+* [False Discovery Rate and Benjamini–Hochberg procedure](https://www.youtube.com/watch?v=ylKVIye4d_c)
+* [q-values](https://www.youtube.com/watch?v=tomS-c321rI)
+
+* **Week 3**
+* [Introduction to Statistical Models](https://www.youtube.com/watch?v=G0kHJgp4WHI)
+* [Poisson Example from RNA-seq](https://www.youtube.com/watch?v=KuxRYdG1EdQ)
+* [Maximum Likelihood Estimate](ttps://www.youtube.com/watch?v=5gRv65ULTYI)
+* [Models for Variance](https://www.youtube.com/watch?v=GCxezZ6iI6I)
+
+* **Week 4**
+* [Bayes' Rule](https://www.youtube.com/watch?v=ea8V_J1fS7o)
+* [Bayes' Rule in Practice](https://www.youtube.com/watch?v=TdfedTLc-nI)
+* [Hierarchical Models in Practice](https://www.youtube.com/watch?v=FNyoM_PFf54)
+* [Plots: Volcano plots and p-value histograms, boxplots, and MAplots](https://www.youtube.com/watch?v=XeZpS07sLrQ)
+
+## PH525.4
+* **Week 1**
+* [Introduction](https://www.youtube.com/watch?v=sBgMdGUTYWY)
