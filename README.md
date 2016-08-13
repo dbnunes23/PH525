@@ -3,6 +3,11 @@
 
 ## PH525.1
 * **Week 1** 
+* Testing
+* Markdown | Less | Pretty
+* --- | --- | ---
+* *Still* | `renders` | **nicely**
+* 
 * [Getting Started with R](https://www.youtube.com/watch?v=p8F_wreHTzw)
 * [GitHub](https://www.youtube.com/watch?v=HSXwLm6txoo)
 * [Rstudio](https://www.youtube.com/watch?v=YgqxQFQf1qg)
