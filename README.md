@@ -1,9 +1,8 @@
 # PH525
-## The following page includes the links to all youtube videos for the first four courses in the PH525 Data Analysis series. 
+## The following page includes links to the material presented in the first four courses of the PH525 Data Analysis series. The links are to the video lectures, the book, and the course itself. Note that you must be logged in to EdX in order to access the course material. 
 
 ## PH525.1
 * **Week 1** 
-* Testing
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
 | Getting Started with R | [Youtube](https://www.youtube.com/watch?v=p8F_wreHTzw) | [Chapter 0](http://genomicsclass.github.io/book/pages/getting_started.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
