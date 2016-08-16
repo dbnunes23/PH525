@@ -60,6 +60,10 @@
 
 ## PH525.2
 * **Week 1** 
+
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|Course Introduction |
 * [Course Introduction](https://www.youtube.com/watch?v=aP61q-LoerI)
 * [Introduction](https://www.youtube.com/watch?v=tPlHbAHVqFQ)
 * [Matrix Notations](https://www.youtube.com/watch?v=EaYkxUwEB-Q)
