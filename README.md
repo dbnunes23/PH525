@@ -13,17 +13,18 @@
 | Introduction to dplyr | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4) | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
 
 
-* 
-* [Getting Started with R](https://www.youtube.com/watch?v=p8F_wreHTzw)
-* [GitHub](https://www.youtube.com/watch?v=HSXwLm6txoo)
-* [Rstudio](https://www.youtube.com/watch?v=YgqxQFQf1qg)
-* [Using the Textbook](https://www.youtube.com/watch?v=2WwYshzkfhA)
-* [Rstudio for Organization](https://www.youtube.com/watch?v=8WmCLs3UUno)
-* [Introduction to dplyr](https://www.youtube.com/watch?v=DeDMSyiqHc4)
 
 * **Week 2** 
-* [Motivation](https://www.youtube.com/watch?v=6nvhFgmrvLE)
-* [Introduction to Random Variables](https://www.youtube.com/watch?v=AxJf1nXrW8U)
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+| Motivation | [Youtube](https://www.youtube.com/watch?v=6nvhFgmrvLE) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) 
+| Introduction to Random Variables | [Youtube](https://www.youtube.com/watch?v=AxJf1nXrW8U)  | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
+| Introduction to Null Distributions | [Youtube](https://www.youtube.com/watch?v=YgqxQFQf1qg) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
+| Using the Textbook | [Youtube](https://www.youtube.com/watch?v=2WwYshzkfhA) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
+| Rstudio for Organization | [Youtube](https://www.youtube.com/watch?v=8WmCLs3UUno) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
+| Introduction to dplyr | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4) | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
+
+
 * [Introduction to Null Distributions](https://www.youtube.com/watch?v=G5ZjYy1vS8k)
 * [Probability Distributions](https://www.youtube.com/watch?v=govBS0uJ9GA)
 * [Normal Distribution](https://www.youtube.com/watch?v=fwaxgik7aj4)
