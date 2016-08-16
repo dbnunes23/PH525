@@ -40,15 +40,19 @@
 
 
 * **Week 4** 
-* [Histogram](https://www.youtube.com/watch?v=UaXYRf6qtEg)
-* [QQ-plot](https://www.youtube.com/watch?v=5F62EwMF26c)
-* [Boxplot](https://www.youtube.com/watch?v=Hh-Pd23OmVo)
-* [Scatterplot](https://www.youtube.com/watch?v=dmJzInKpuRE)
-* [Symmetry of Log Ratios](https://www.youtube.com/watch?v=kxW4bCrYvco)
-* [Plots to Avoid](https://www.youtube.com/watch?v=p-dYnSbBTa8)
-* [Avoid Pseudo 3D](https://www.youtube.com/watch?v=15dRwC-gP0Q)
-* [Median, Mad, and Spearman Correlation](https://www.youtube.com/watch?v=vLDxz51pLZQ)
-* [Mann-Whitney-Wilcoxon Test](https://www.youtube.com/watch?v=3WKOnz6L1Fc)
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+| Histogram | [Youtube](https://www.youtube.com/watch?v=UaXYRf6qtEg) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) 
+| QQ-plot | [Youtube](https://www.youtube.com/watch?v=5F62EwMF26c) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) 
+| Boxplot | [Youtube](https://www.youtube.com/watch?v=Hh-Pd23OmVo) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) 
+| Scatterplot | [Youtube](https://www.youtube.com/watch?v=dmJzInKpuRE) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) 
+| Symmetry of Log Ratios | [Youtube](https://www.youtube.com/watch?v=kxW4bCrYvco) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) 
+| Plots to Avoid | [Youtube](https://www.youtube.com/watch?v=p-dYnSbBTa8) | [Chapter 2](http://genomicsclass.github.io/book/pages/plots_to_avoid.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/)
+| Avoid Pseudo 3D | [Youtube](https://www.youtube.com/watch?v=15dRwC-gP0Q) | [Chapter 2](http://genomicsclass.github.io/book/pages/plots_to_avoid.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/)
+| Median, Mad, and Spearman Correlation | [Youtube](https://www.youtube.com/watch?v=vLDxz51pLZQ) | [Chapter 3](http://genomicsclass.github.io/book/pages/robust_summaries.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/)
+| Mann-Whitney-Wilcoxon Test | [Youtube](https://www.youtube.com/watch?v=3WKOnz6L1Fc) | [Chapter 3](http://genomicsclass.github.io/book/pages/ranktest.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/)
+
+
 
 
 ## PH525.2
