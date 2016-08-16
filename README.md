@@ -38,7 +38,6 @@
 | Monte Carlo | [Youtube](https://www.youtube.com/watch?v=HMkuyuP-jsI) | [Chapter 1](http://genomicsclass.github.io/book/pages/monte_carlo.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/997dd497b71c4232a588778f28cf894e/) 
 | Association Tests | [Youtube](https://www.youtube.com/watch?v=h8Rn7rr9M34) | [Chapter 1](http://genomicsclass.github.io/book/pages/association_tests.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/997dd497b71c4232a588778f28cf894e/) 
 
-
 * **Week 4** 
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
