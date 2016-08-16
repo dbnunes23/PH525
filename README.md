@@ -19,15 +19,13 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Motivation | [Youtube](https://www.youtube.com/watch?v=6nvhFgmrvLE) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) 
 | Introduction to Random Variables | [Youtube](https://www.youtube.com/watch?v=AxJf1nXrW8U)  | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
-| Introduction to Null Distributions | [Youtube](https://www.youtube.com/watch?v=YgqxQFQf1qg) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
-| Using the Textbook | [Youtube](https://www.youtube.com/watch?v=2WwYshzkfhA) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
-| Rstudio for Organization | [Youtube](https://www.youtube.com/watch?v=8WmCLs3UUno) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
-| Introduction to dplyr | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4) | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
+| Introduction to Null Distributions | [Youtube](https://www.youtube.com/watch?v=G5ZjYy1vS8k) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
+| Probability Distributions | [Youtube](https://www.youtube.com/watch?v=govBS0uJ9GA) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
+| Normal Distribution | [Youtube](https://www.youtube.com/watch?v=fwaxgik7aj4) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
+| Populations, Samples and Estimates | [Youtube](https://www.youtube.com/watch?v=99WNX608k0Y) | [Chapter 1](http://genomicsclass.github.io/book/pages/populations_and_samples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) 
 
 
-* [Introduction to Null Distributions](https://www.youtube.com/watch?v=G5ZjYy1vS8k)
-* [Probability Distributions](https://www.youtube.com/watch?v=govBS0uJ9GA)
-* [Normal Distribution](https://www.youtube.com/watch?v=fwaxgik7aj4)
+* 
 * [Populations, Samples and Estimates](https://www.youtube.com/watch?v=99WNX608k0Y)
 * [Central Limit Theorem](https://www.youtube.com/watch?v=aYA8ZG-ltqQ)
 * [Central Limit Theorem](https://www.youtube.com/watch?v=QOeoxOgYpzU)
