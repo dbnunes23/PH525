@@ -40,7 +40,6 @@
 
 
 * **Week 4** 
-* 
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
 | Histogram | [Youtube](https://www.youtube.com/watch?v=UaXYRf6qtEg) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) 
@@ -60,7 +59,6 @@
 
 ## PH525.2
 * **Week 1** 
-
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
 |Course Introduction | [Youtube](https://www.youtube.com/watch?v=aP61q-LoerI) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/)
@@ -68,8 +66,13 @@
 |Matrix Notations | [Youtube](https://www.youtube.com/watch?v=EaYkxUwEB-Q) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_notation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/)
 |Matrix Operations | [Youtube](https://www.youtube.com/watch?v=-5uvdduYNJM) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_operations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/)
 
+* **Week 2** 
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|Examples | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
 
 * **Week 2** 
+
 * [Examples](https://www.youtube.com/watch?v=FAP7fYbZF0Y)
 * [Matrix Algebra in Practice I](https://www.youtube.com/watch?v=LniqeWOfTQo)
 * [Matrix Algebra in Practice II](https://www.youtube.com/watch?v=eRXzsXh78rE)
@@ -91,6 +94,9 @@
 * [Interactions and Contrasts V](https://www.youtube.com/watch?v=pTPxxU6Zslc)
 * [Collinearity](https://www.youtube.com/watch?v=dyzbzbUHZHY)
 * [QR Factorization](https://www.youtube.com/watch?v=yL3lrirzNnQ)
+
+* |   |  |  |  |
+| ------------- | ------------- | ------------- | ------------- |
 
 ## PH525.3
 * **Week 1**
