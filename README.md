@@ -38,7 +38,9 @@
 | Monte Carlo | [Youtube](https://www.youtube.com/watch?v=HMkuyuP-jsI) | [Chapter 1](http://genomicsclass.github.io/book/pages/monte_carlo.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/997dd497b71c4232a588778f28cf894e/) 
 | Association Tests | [Youtube](https://www.youtube.com/watch?v=h8Rn7rr9M34) | [Chapter 1](http://genomicsclass.github.io/book/pages/association_tests.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/997dd497b71c4232a588778f28cf894e/) 
 
+
 * **Week 4** 
+* 
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
 | Histogram | [Youtube](https://www.youtube.com/watch?v=UaXYRf6qtEg) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) 
@@ -51,6 +53,8 @@
 | Median, Mad, and Spearman Correlation | [Youtube](https://www.youtube.com/watch?v=vLDxz51pLZQ) | [Chapter 3](http://genomicsclass.github.io/book/pages/robust_summaries.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/)
 | Mann-Whitney-Wilcoxon Test | [Youtube](https://www.youtube.com/watch?v=3WKOnz6L1Fc) | [Chapter 3](http://genomicsclass.github.io/book/pages/ranktest.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/)
 
+* |   |  |  |  |
+| ------------- | ------------- | ------------- | ------------- |
 
 
 
