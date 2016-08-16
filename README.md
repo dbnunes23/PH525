@@ -85,14 +85,17 @@
 |Linear Models in Practice II | [Youtube](https://www.youtube.com/watch?v=Opa8i0QxKCo) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
 |Fitting Linear Models and Testing | [Youtube](https://www.youtube.com/watch?v=TSOzvcAgV70) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
 
+
 * **Week 4**
-* [Interactions and Contrasts I](https://www.youtube.com/watch?v=Wa1QkyF4peU)
-* [Interactions and Contrasts II](https://www.youtube.com/watch?v=ZU5jb86vXag)
-* [Interactions and Contrasts III](https://www.youtube.com/watch?v=wSJ3yuPiAbg)
-* [Interactions and Contrasts IV](https://www.youtube.com/watch?v=bBmhUyOmeZc)
-* [Interactions and Contrasts V](https://www.youtube.com/watch?v=pTPxxU6Zslc)
-* [Collinearity](https://www.youtube.com/watch?v=dyzbzbUHZHY)
-* [QR Factorization](https://www.youtube.com/watch?v=yL3lrirzNnQ)
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+| Interactions and Contrasts I| [Youtube](https://www.youtube.com/watch?v=Wa1QkyF4peU) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/)
+| Interactions and Contrasts II| [Youtube](https://www.youtube.com/watch?v=ZU5jb86vXag) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/)
+| Interactions and Contrasts III| [Youtube](https://www.youtube.com/watch?v=wSJ3yuPiAbg) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/)
+| Interactions and Contrasts IV| [Youtube](https://www.youtube.com/watch?v=bBmhUyOmeZc) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/)
+| Interactions and Contrasts V| [Youtube](https://www.youtube.com/watch?v=pTPxxU6Zslc) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/)
+| Collinearity| [Youtube](https://www.youtube.com/watch?v=dyzbzbUHZHY) | [Chapter5](http://genomicsclass.github.io/book/pages/collinearity.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/)
+| QR Factorization| [Youtube](https://www.youtube.com/watch?v=yL3lrirzNnQ) | [Chapter5](http://genomicsclass.github.io/book/pages/qr_and_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/)
 
 * |   |  |  |  |
 | ------------- | ------------- | ------------- | ------------- |
