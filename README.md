@@ -75,13 +75,21 @@
 | Standard Errors| [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
 
 
-* **Week 3**
-* [Linear Models as Matrix Multiplication I](https://www.youtube.com/watch?v=gP7mgpli5t4)
-* [Linear Models as Matrix Multiplication II](https://www.youtube.com/watch?v=pw7I70rlkdM)
-* [Expressing Experimental Designs](https://www.youtube.com/watch?v=KpSS2e4Y24w)
-* [Linear Models in Practice I](https://www.youtube.com/watch?v=xCdSyc3K3Ew)
+
+
+
+
 * [Linear Models in Practice II](https://www.youtube.com/watch?v=Opa8i0QxKCo)
 * [Fitting Linear Models and Testing](https://www.youtube.com/watch?v=TSOzvcAgV70)
+
+* **Week 3**
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|Linear Models as Matrix Multiplication I | [Youtube](https://www.youtube.com/watch?v=gP7mgpli5t4) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
+|Linear Models as Matrix Multiplication II | [Youtube](https://www.youtube.com/watch?v=pw7I70rlkdM) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
+|Expressing Experimental Designs | [Youtube](https://www.youtube.com/watch?v=KpSS2e4Y24w) | [Chapter5](http://genomicsclass.github.io/book/pages/expressing_design_formula.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
+|Linear Models in Practice I | [Youtube](https://www.youtube.com/watch?v=xCdSyc3K3Ew) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
+
 
 * **Week 4**
 * [Interactions and Contrasts I](https://www.youtube.com/watch?v=Wa1QkyF4peU)
