@@ -148,11 +148,13 @@
 
  
 * **Week 2**
-* [Projections](https://www.youtube.com/watch?v=yPecNb3-UXw)
-* [Rotations](https://www.youtube.com/watch?v=QYbeZXKQsCc)
-* [SVD](https://www.youtube.com/watch?v=5K-h9eOilsg)
-* [MDS](https://www.youtube.com/watch?v=RKncuSbrF_o)
-* [PCA](https://www.youtube.com/watch?v=-bbLn9tv7i8)
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|Projections | [Youtube](https://www.youtube.com/watch?v=yPecNb3-UXw) | [Chapter8](http://genomicsclass.github.io/book/pages/projections.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
+|Rotations | [Youtube](https://www.youtube.com/watch?v=QYbeZXKQsCc) | [Chapter8](http://genomicsclass.github.io/book/pages/rotations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
+|SVD | [Youtube](https://www.youtube.com/watch?v=5K-h9eOilsg) | [Chapter8](http://genomicsclass.github.io/book/pages/svd.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
+|MDS | [Youtube](https://www.youtube.com/watch?v=RKncuSbrF_o) | [Chapter8](https://github.com/genomicsclass/labs/blob/master/highdim/mds.Rmd) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
+|PCA | [Youtube](https://www.youtube.com/watch?v=-bbLn9tv7i8) | [Chapter8](http://genomicsclass.github.io/book/pages/pca_motivation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
 
 * **Week 3**
 * [Clustering](https://www.youtube.com/watch?v=NqH8kUfsFGc)
@@ -178,3 +180,5 @@
 * [Motivating Factor Analysis](https://www.youtube.com/watch?v=_7agXi7xdwE)
 * [Surrogate Variable Analysis (SVA)](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow)
 
+* |   |  |  |  |
+| ------------- | ------------- | ------------- | ------------- |
