@@ -172,16 +172,18 @@
 |K-Nearest Neighbors| [Youtube](https://www.youtube.com/watch?v=bNa9kGXFP2s) | [Chapter9](http://genomicsclass.github.io/book/pages/smoothing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
 |Cross Validation| [Youtube](https://www.youtube.com/watch?v=5Oxd690dd_0) | [Chapter9](http://genomicsclass.github.io/book/pages/crossvalidation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
 
-
 * **Week 4**
-* [Confounding](https://www.youtube.com/watch?v=aqUpNV8pgRs)
-* [Confounding in Genomics](https://www.youtube.com/watch?v=f8IM3KfUCH0)
-* [EDA with PCA](https://www.youtube.com/watch?v=4Gnxh5HgJlM)
-* [Modeling Batch Effects](https://www.youtube.com/watch?v=QE5Qev9AdE8)
-* [ComBat](https://www.youtube.com/watch?v=YqoG1wt5ZdU)
-* [Factor Analysis](https://www.youtube.com/watch?v=0ixPQr7-eYk)
-* [Motivating Factor Analysis](https://www.youtube.com/watch?v=_7agXi7xdwE)
-* [Surrogate Variable Analysis (SVA)](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow)
+* |  Lecture Title | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|Confounding| [Youtube](https://www.youtube.com/watch?v=aqUpNV8pgRs) | [Chapter10](http://genomicsclass.github.io/book/pages/confounding.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+|Confounding in Genomics| [Youtube](https://www.youtube.com/watch?v=f8IM3KfUCH0) | [Chapter10](http://genomicsclass.github.io/book/pages/confounding.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+|EDA with PCA| [Youtube](https://www.youtube.com/watch?v=4Gnxh5HgJlM) | [Chapter10](http://genomicsclass.github.io/book/pages/eda_with_pca.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+|Modeling Batch Effects| [Youtube](https://www.youtube.com/watch?v=QE5Qev9AdE8) | [Chapter10](http://genomicsclass.github.io/book/pages/intro_to_batch_effects.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+|ComBat| [Youtube](https://www.youtube.com/watch?v=YqoG1wt5ZdU) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+|Factor Analysis| [Youtube](https://www.youtube.com/watch?v=0ixPQr7-eYk) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+|Motivating Factor Analysis| [Youtube](https://www.youtube.com/watch?v=_7agXi7xdwE) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+|Surrogate Variable Analysis (SVA)| [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
+
 
 * |   |  |  |  |
 | ------------- | ------------- | ------------- | ------------- |
