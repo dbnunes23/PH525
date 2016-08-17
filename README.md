@@ -157,18 +157,21 @@
 |PCA | [Youtube](https://www.youtube.com/watch?v=-bbLn9tv7i8) | [Chapter8](http://genomicsclass.github.io/book/pages/pca_motivation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
 
 * **Week 3**
-* [Clustering](https://www.youtube.com/watch?v=NqH8kUfsFGc)
-* [How Randomness Affects Clustering](https://www.youtube.com/watch?v=waqcU-Lxc-I)
-* [Hiearchichal Clustering in R](https://www.youtube.com/watch?v=3OB4_th9UsA)
-* [K-Means](https://www.youtube.com/watch?v=pBYANQH9lLc)
-* [K-Means Clustering in R](https://www.youtube.com/watch?v=4qODn72BvTo)
-* [Heat Maps in R](https://www.youtube.com/watch?v=Ffu-Bt_VDEs)
-* [Gene Clustering](https://www.youtube.com/watch?v=yMubXDjw4Bw)
-* [Conditional Expectations](https://www.youtube.com/watch?v=EzGuqhf5XJU)
-* [Example: Linear Regression](https://www.youtube.com/watch?v=hRFYRsWJr3k)
-* [Smoothing](https://www.youtube.com/watch?v=6n0a0H24aJ8)
-* [K-Nearest Neighbors](https://www.youtube.com/watch?v=bNa9kGXFP2s)
-* [Cross Validation](https://www.youtube.com/watch?v=5Oxd690dd_0)
+* | Lecture Title  |  Video Link  | Book Link  | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|Clustering| [Youtube](https://www.youtube.com/watch?v=NqH8kUfsFGc) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
+|How Randomness Affects Clustering| [Youtube](https://www.youtube.com/watch?v=waqcU-Lxc-I) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
+|Hiearchichal Clustering in R| [Youtube](https://www.youtube.com/watch?v=3OB4_th9UsA) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
+|K-Means| [Youtube](https://www.youtube.com/watch?v=pBYANQH9lLc) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
+|K-Means Clustering in R| [Youtube](https://www.youtube.com/watch?v=4qODn72BvTo) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
+|Heat Maps in R| [Youtube](https://www.youtube.com/watch?v=Ffu-Bt_VDEs) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
+|Gene Clustering| [Youtube](https://www.youtube.com/watch?v=yMubXDjw4Bw) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
+|Conditional Expectations| [Youtube](https://www.youtube.com/watch?v=EzGuqhf5XJU) | [Chapter9](http://genomicsclass.github.io/book/pages/conditional_expectation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
+|Example: Linear Regression| [Youtube](https://www.youtube.com/watch?v=hRFYRsWJr3k) | [Chapter9](http://genomicsclass.github.io/book/pages/conditional_expectation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
+|Smoothing| [Youtube](https://www.youtube.com/watch?v=6n0a0H24aJ8) | [Chapter9](http://genomicsclass.github.io/book/pages/smoothing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
+|K-Nearest Neighbors| [Youtube](https://www.youtube.com/watch?v=bNa9kGXFP2s) | [Chapter9](http://genomicsclass.github.io/book/pages/smoothing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
+|Cross Validation| [Youtube](https://www.youtube.com/watch?v=5Oxd690dd_0) | [Chapter9](http://genomicsclass.github.io/book/pages/crossvalidation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
+
 
 * **Week 4**
 * [Confounding](https://www.youtube.com/watch?v=aqUpNV8pgRs)
