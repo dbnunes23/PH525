@@ -109,8 +109,6 @@
 | p-values Are Random Variables| [Youtube](https://www.youtube.com/watch?v=EASx5PljTW8) | [Chapter6](http://genomicsclass.github.io/book/pages/eda_for_highthroughput.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/)
 
 * **Week 2**
-* [q-values](https://www.youtube.com/watch?v=tomS-c321rI)
-
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
 |Error Rates and Procedures | [Youtube](https://www.youtube.com/watch?v=r_pjo-kuotQ) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/)
@@ -120,10 +118,12 @@
 |q-values| [Youtube](https://www.youtube.com/watch?v=tomS-c321rI) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/)
 
 * **Week 3**
-* [Introduction to Statistical Models](https://www.youtube.com/watch?v=G0kHJgp4WHI)
-* [Poisson Example from RNA-seq](https://www.youtube.com/watch?v=KuxRYdG1EdQ)
-* [Maximum Likelihood Estimate](https://www.youtube.com/watch?v=5gRv65ULTYI)
-* [Models for Variance](https://www.youtube.com/watch?v=GCxezZ6iI6I)
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|Introduction to Statistical Models | [Youtube](https://www.youtube.com/watch?v=G0kHJgp4WHI) | [Chapter7](http://genomicsclass.github.io/book/pages/modeling.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/49490541db654710a492ce1c63213df3/)
+|Poisson Example from RNA-seq | [Youtube](https://www.youtube.com/watch?v=KuxRYdG1EdQ) | [Chapter7](http://genomicsclass.github.io/book/pages/modeling.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/49490541db654710a492ce1c63213df3/)
+|Maximum Likelihood Estimate | [Youtube](https://www.youtube.com/watch?v=5gRv65ULTYI) | [Chapter7](http://genomicsclass.github.io/book/pages/modeling.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/49490541db654710a492ce1c63213df3/)
+|Models for Variance | [Youtube](https://www.youtube.com/watch?v=GCxezZ6iI6I) | [Chapter7](http://genomicsclass.github.io/book/pages/modeling.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/49490541db654710a492ce1c63213df3/)
 
 * **Week 4**
 * [Bayes' Rule](https://www.youtube.com/watch?v=ea8V_J1fS7o)
