@@ -106,6 +106,12 @@
 * [The challenge of multiple testing](https://www.youtube.com/watch?v=yobqXdAts14)
 * [p-values Are Random Variables](https://www.youtube.com/watch?v=EASx5PljTW8)
 
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+|An Example of High-throughput Data | [Youtube](https://www.youtube.com/watch?v=ujAU9T9QX24) | [Chapter6](http://genomicsclass.github.io/book/pages/intro_to_highthroughput_data.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/)
+|The challenge of multiple testing | [Youtube](https://www.youtube.com/watch?v=yobqXdAts14) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/)
+| p-values Are Random Variables| [Youtube](https://www.youtube.com/watch?v=EASx5PljTW8) | [Chapter6](http://genomicsclass.github.io/book/pages/eda_for_highthroughput.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/)
+
 * **Week 2**
 * [Error Rates and Procedures](https://www.youtube.com/watch?v=r_pjo-kuotQ)
 * [Error Rates and Procedures Examples](https://www.youtube.com/watch?v=pn3UllO26FE)
