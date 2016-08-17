@@ -109,18 +109,15 @@
 | p-values Are Random Variables| [Youtube](https://www.youtube.com/watch?v=EASx5PljTW8) | [Chapter6](http://genomicsclass.github.io/book/pages/eda_for_highthroughput.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/)
 
 * **Week 2**
-* 
-* [Error Rates and Procedures](https://www.youtube.com/watch?v=r_pjo-kuotQ)
-* [Error Rates and Procedures Examples](https://www.youtube.com/watch?v=pn3UllO26FE)
-* [Bonferroni Correction](https://www.youtube.com/watch?v=X6R1pptBHZA)
-* [False Discovery Rate and Benjamini–Hochberg procedure](https://www.youtube.com/watch?v=ylKVIye4d_c)
 * [q-values](https://www.youtube.com/watch?v=tomS-c321rI)
 
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
 |Error Rates and Procedures | [Youtube](https://www.youtube.com/watch?v=r_pjo-kuotQ) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/)
-
-
+|Error Rates and Procedures Examples| [Youtube](https://www.youtube.com/watch?v=pn3UllO26FE) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/)
+|Bonferroni Correction| [Youtube](https://www.youtube.com/watch?v=X6R1pptBHZA) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/)
+|False Discovery Rate and Benjamini–Hochberg procedure| [Youtube](https://www.youtube.com/watch?v=ylKVIye4d_c) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/)
+|q-values| [Youtube](https://www.youtube.com/watch?v=tomS-c321rI) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/)
 
 * **Week 3**
 * [Introduction to Statistical Models](https://www.youtube.com/watch?v=G0kHJgp4WHI)
