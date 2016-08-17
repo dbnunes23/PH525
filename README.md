@@ -72,7 +72,7 @@
 |Examples | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
 | Matrix Algebra in Practice I| [Youtube](https://www.youtube.com/watch?v=LniqeWOfTQo) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
 | Matrix Algebra in Practice II| [Youtube](https://www.youtube.com/watch?v=eRXzsXh78rE) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
-| Standard Errors| [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
+| Standard Errors| [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/c649ea79c63e432199264f08479e66cf/)
 
 
 * **Week 3**
