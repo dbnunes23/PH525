@@ -139,10 +139,13 @@
 
 ## PH525.4
 * **Week 1**
-* [Introduction](https://www.youtube.com/watch?v=sBgMdGUTYWY)
-* [Distance](https://www.youtube.com/watch?v=QYlggeDGLmc)
-* [Distance (in practice)](https://www.youtube.com/watch?v=B0MFoHr23u8)
-* [Distance Reduction Motivation](https://www.youtube.com/watch?v=uu964pCDGaw)
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+| Introduction| [Youtube](https://www.youtube.com/watch?v=sBgMdGUTYWY) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
+| Distance| [Youtube](https://www.youtube.com/watch?v=QYlggeDGLmc) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
+| Distance (in practice)| [Youtube](https://www.youtube.com/watch?v=B0MFoHr23u8) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
+|Distance Reduction Motivation | [Youtube](https://www.youtube.com/watch?v=uu964pCDGaw) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
+
  
 * **Week 2**
 * [Projections](https://www.youtube.com/watch?v=yPecNb3-UXw)
