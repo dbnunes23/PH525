@@ -125,11 +125,17 @@
 |Maximum Likelihood Estimate | [Youtube](https://www.youtube.com/watch?v=5gRv65ULTYI) | [Chapter7](http://genomicsclass.github.io/book/pages/modeling.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/49490541db654710a492ce1c63213df3/)
 |Models for Variance | [Youtube](https://www.youtube.com/watch?v=GCxezZ6iI6I) | [Chapter7](http://genomicsclass.github.io/book/pages/modeling.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/49490541db654710a492ce1c63213df3/)
 
+
 * **Week 4**
-* [Bayes' Rule](https://www.youtube.com/watch?v=ea8V_J1fS7o)
-* [Bayes' Rule in Practice](https://www.youtube.com/watch?v=TdfedTLc-nI)
-* [Hierarchical Models in Practice](https://www.youtube.com/watch?v=FNyoM_PFf54)
-* [Plots: Volcano plots and p-value histograms, boxplots, and MAplots](https://www.youtube.com/watch?v=XeZpS07sLrQ)
+* | Lecture Title  | Video Link | Book Link | Course Link |
+| ------------- | ------------- | ------------- | ------------- |
+| Bayes' Rule| [Youtube](https://www.youtube.com/watch?v=ea8V_J1fS7o) | [Chapter7](http://genomicsclass.github.io/book/pages/bayes.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
+| Bayes' Rule in Practice| [Youtube](https://www.youtube.com/watch?v=TdfedTLc-nI) | [Chapter7](http://genomicsclass.github.io/book/pages/bayes.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
+| Hierarchical Models in Practice| [Youtube](https://www.youtube.com/watch?v=FNyoM_PFf54) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
+|Plots: Volcano plots and p-value histograms, boxplots, and MAplots | [Youtube](https://www.youtube.com/watch?v=XeZpS07sLrQ) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
+
+* |   |  |  |  |
+| ------------- | ------------- | ------------- | ------------- |
 
 ## PH525.4
 * **Week 1**
