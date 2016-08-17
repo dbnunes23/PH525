@@ -132,7 +132,7 @@
 | Bayes' Rule| [Youtube](https://www.youtube.com/watch?v=ea8V_J1fS7o) | [Chapter7](http://genomicsclass.github.io/book/pages/bayes.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
 | Bayes' Rule in Practice| [Youtube](https://www.youtube.com/watch?v=TdfedTLc-nI) | [Chapter7](http://genomicsclass.github.io/book/pages/bayes.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
 | Hierarchical Models in Practice| [Youtube](https://www.youtube.com/watch?v=FNyoM_PFf54) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
-|Plots: Volcano plots and p-value histograms, boxplots, and MAplots | [Youtube](https://www.youtube.com/watch?v=XeZpS07sLrQ) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/)
+|Plots: Volcano plots and p-value histograms, boxplots, and MAplots | [Youtube](https://www.youtube.com/watch?v=XeZpS07sLrQ) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/87ca7437577a49d28cb69c7463ae8a87/)
 
 * |   |  |  |  |
 | ------------- | ------------- | ------------- | ------------- |
