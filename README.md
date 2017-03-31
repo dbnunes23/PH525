@@ -13,12 +13,6 @@
 
 
 
-* **Week 1** 
-* | Lecture Title  | Video Link | Book Link | Course Link |
-| ------------- | ------------- | ------------- | ------------- |
-| Getting Started with R | [Youtube](https://www.youtube.com/watch?v=p8F_wreHTzw) | [Chapter 0](http://genomicsclass.github.io/book/pages/getting_started.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
-| GitHub | [Youtube](https://www.youtube.com/watch?v=HSXwLm6txoo)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
-| RStudio | [Youtube](https://www.youtube.com/watch?v=YgqxQFQf1qg) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 | Using the Textbook | [Youtube](https://www.youtube.com/watch?v=2WwYshzkfhA) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 | Rstudio for Organization | [Youtube](https://www.youtube.com/watch?v=8WmCLs3UUno) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 | Introduction to dplyr | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4) | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
