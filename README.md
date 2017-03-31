@@ -1,4 +1,9 @@
-# PH525
+# PH525 -- Statistics and R
+## An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
+##
+## Instructor: Professor Rafael Irizarry
+## Teaching Staff: Dr. Heather Sternshein and Dr. Idan Ginsburg
+##
 ## The following page includes links to the material presented in the first four courses of the PH525 Data Analysis series. The links are to the video lectures, the book, and the course itself. Note that you must be logged in to EdX in order to access the course material. 
 
 ## PH525.1
