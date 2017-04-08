@@ -1,5 +1,3 @@
-##
-##
 # PH525 -- Statistics and R
 ## An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
 ## Instructor: Professor Rafael Irizarry
