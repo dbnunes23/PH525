@@ -22,6 +22,10 @@
 
 
 * **Week 2** 
+| N  | Lecture Title |  Video | Book | Course | 
+| 1 | Motivation | [Youtube](https://www.youtube.com/watch?v=6nvhFgmrvLE) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
+
+
 * | Lecture Title  | Video Link | Book Link | Course Link |
 | ------------- | ------------- | ------------- | ------------- |
 | Motivation | [Youtube](https://www.youtube.com/watch?v=6nvhFgmrvLE) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) 
