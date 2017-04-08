@@ -34,7 +34,7 @@
 | 7 | Central Limit Theorem | [Youtube](https://www.youtube.com/watch?v=aYA8ZG-ltqQ) | [Chapter 1](http://genomicsclass.github.io/book/pages/clt_and_t-distribution.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
 | 8 | Central Limit Theorem in Practice | [Youtube](https://www.youtube.com/watch?v=QOeoxOgYpzU) | [Chapter 1](http://genomicsclass.github.io/book/pages/clt_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
 | 9 | t-tests in Practice | [Youtube](https://www.youtube.com/watch?v=KEMJIG2gOv4) | [Chapter 1](http://genomicsclass.github.io/book/pages/t-tests_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
-| 10 | t-tests in Practice | [Youtube](https://www.youtube.com/watch?v=IzFDBnbhDbA) | [Chapter 1](http://genomicsclass.github.io/book/pages/t-tests_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
+| 10 | t-tests in Practice (part II) | [Youtube](https://www.youtube.com/watch?v=IzFDBnbhDbA) | [Chapter 1](http://genomicsclass.github.io/book/pages/t-tests_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
 
 
 
