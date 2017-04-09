@@ -97,14 +97,18 @@
 
 
 * **Week 3**
-* | Lecture Title  | Video Link | Book Link | Course Link |
-| ------------- | ------------- | ------------- | ------------- |
-|Linear Models as Matrix Multiplication I | [Youtube](https://www.youtube.com/watch?v=gP7mgpli5t4) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
-|Linear Models as Matrix Multiplication II | [Youtube](https://www.youtube.com/watch?v=pw7I70rlkdM) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
-|Expressing Experimental Designs | [Youtube](https://www.youtube.com/watch?v=KpSS2e4Y24w) | [Chapter5](http://genomicsclass.github.io/book/pages/expressing_design_formula.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
-|Linear Models in Practice I | [Youtube](https://www.youtube.com/watch?v=xCdSyc3K3Ew) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
-|Linear Models in Practice II | [Youtube](https://www.youtube.com/watch?v=Opa8i0QxKCo) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
-|Fitting Linear Models and Testing | [Youtube](https://www.youtube.com/watch?v=TSOzvcAgV70) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/)
+
+| N  | Lecture Title |  Video | Book | Course | 
+|---|---|---|---|---|
+| 1 | Linear Models as Matrix Multiplication I | [Youtube](https://www.youtube.com/watch?v=gP7mgpli5t4) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| 2 | Linear Models as Matrix Multiplication II | [Youtube](https://www.youtube.com/watch?v=pw7I70rlkdM) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| 3 | Expressing Experimental Designs | [Youtube](https://www.youtube.com/watch?v=KpSS2e4Y24w) | [Chapter5](http://genomicsclass.github.io/book/pages/expressing_design_formula.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| 4 | Linear Models in Practice I | [Youtube](https://www.youtube.com/watch?v=xCdSyc3K3Ew) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| 5 | Linear Models in Practice II | [Youtube](https://www.youtube.com/watch?v=Opa8i0QxKCo) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| 5 | Fitting Linear Models and Testing | [Youtube](https://www.youtube.com/watch?v=TSOzvcAgV70) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+
+
+
 
 
 * **Week 4**
