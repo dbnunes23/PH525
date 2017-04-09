@@ -169,56 +169,69 @@
 | 2 | Bayes' Rule in Practice | [Youtube](https://www.youtube.com/watch?v=TdfedTLc-nI) | [Chapter7](http://genomicsclass.github.io/book/pages/bayes.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/) |
 | 3 | Hierarchical Models in Practice | [Youtube](https://www.youtube.com/watch?v=FNyoM_PFf54) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b6b894ea512c43f8a67bfdd62d9e9c8d/) |
 | 4 | Plots: Volcano plots and p-value histograms, boxplots, and MAplots | [Youtube](https://www.youtube.com/watch?v=XeZpS07sLrQ) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/87ca7437577a49d28cb69c7463ae8a87/) |
-
+##
 
 
 ## PH525.4
 * **Week 1**
-* | Lecture Title  | Video Link | Book Link | Course Link |
-| ------------- | ------------- | ------------- | ------------- |
-| Introduction| [Youtube](https://www.youtube.com/watch?v=sBgMdGUTYWY) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
-| Distance| [Youtube](https://www.youtube.com/watch?v=QYlggeDGLmc) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
-| Distance (in practice)| [Youtube](https://www.youtube.com/watch?v=B0MFoHr23u8) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
-|Distance Reduction Motivation | [Youtube](https://www.youtube.com/watch?v=uu964pCDGaw) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/)
+
+| N  | Lecture Title |  Video | Book | Course | 
+|---|---|---|---|---|
+| 1 | Introduction | [Youtube](https://www.youtube.com/watch?v=sBgMdGUTYWY) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/) |
+| 2 | Distance | [Youtube](https://www.youtube.com/watch?v=QYlggeDGLmc) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/) |
+| 3 | Distance (in practice) | [Youtube](https://www.youtube.com/watch?v=B0MFoHr23u8) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/) |
+| 4 | Distance Reduction Motivation | [Youtube](https://www.youtube.com/watch?v=uu964pCDGaw) | [Chapter8](http://genomicsclass.github.io/book/pages/distance.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/2527ed19795c415f8bc5957597175864/) |
+##
+
+
 
  
 * **Week 2**
-* | Lecture Title  | Video Link | Book Link | Course Link |
-| ------------- | ------------- | ------------- | ------------- |
-|Projections | [Youtube](https://www.youtube.com/watch?v=yPecNb3-UXw) | [Chapter8](http://genomicsclass.github.io/book/pages/projections.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
-|Rotations | [Youtube](https://www.youtube.com/watch?v=QYbeZXKQsCc) | [Chapter8](http://genomicsclass.github.io/book/pages/rotations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
-|SVD | [Youtube](https://www.youtube.com/watch?v=5K-h9eOilsg) | [Chapter8](http://genomicsclass.github.io/book/pages/svd.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
-|MDS | [Youtube](https://www.youtube.com/watch?v=RKncuSbrF_o) | [Chapter8](https://github.com/genomicsclass/labs/blob/master/highdim/mds.Rmd) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
-|PCA | [Youtube](https://www.youtube.com/watch?v=-bbLn9tv7i8) | [Chapter8](http://genomicsclass.github.io/book/pages/pca_motivation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/)
+
+| N  | Lecture Title |  Video | Book | Course | 
+|---|---|---|---|---|
+| 1 | Projections | [Youtube](https://www.youtube.com/watch?v=yPecNb3-UXw) | [Chapter8](http://genomicsclass.github.io/book/pages/projections.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/) |
+| 2 | Rotations | [Youtube](https://www.youtube.com/watch?v=QYbeZXKQsCc) | [Chapter8](http://genomicsclass.github.io/book/pages/rotations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/) |
+| 3 | SVD| [Youtube](https://www.youtube.com/watch?v=5K-h9eOilsg) | [Chapter8](http://genomicsclass.github.io/book/pages/svd.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/) |
+| 4 | MDS| [Youtube](https://www.youtube.com/watch?v=RKncuSbrF_o) | [Chapter8](https://github.com/genomicsclass/labs/blob/master/highdim/mds.Rmd) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/) |
+| 5 | PCA | [Youtube](https://www.youtube.com/watch?v=-bbLn9tv7i8) | [Chapter8](http://genomicsclass.github.io/book/pages/pca_motivation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/6e82f1976ed243b0aa14d68136e1559e/) |
+##
+
+
+
 
 * **Week 3**
-* | Lecture Title  |  Video Link  | Book Link  | Course Link |
-| ------------- | ------------- | ------------- | ------------- |
-|Clustering| [Youtube](https://www.youtube.com/watch?v=NqH8kUfsFGc) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
-|How Randomness Affects Clustering| [Youtube](https://www.youtube.com/watch?v=waqcU-Lxc-I) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
-|Hiearchichal Clustering in R| [Youtube](https://www.youtube.com/watch?v=3OB4_th9UsA) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
-|K-Means| [Youtube](https://www.youtube.com/watch?v=pBYANQH9lLc) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
-|K-Means Clustering in R| [Youtube](https://www.youtube.com/watch?v=4qODn72BvTo) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
-|Heat Maps in R| [Youtube](https://www.youtube.com/watch?v=Ffu-Bt_VDEs) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
-|Gene Clustering| [Youtube](https://www.youtube.com/watch?v=yMubXDjw4Bw) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/)
-|Conditional Expectations| [Youtube](https://www.youtube.com/watch?v=EzGuqhf5XJU) | [Chapter9](http://genomicsclass.github.io/book/pages/conditional_expectation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
-|Example: Linear Regression| [Youtube](https://www.youtube.com/watch?v=hRFYRsWJr3k) | [Chapter9](http://genomicsclass.github.io/book/pages/conditional_expectation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
-|Smoothing| [Youtube](https://www.youtube.com/watch?v=6n0a0H24aJ8) | [Chapter9](http://genomicsclass.github.io/book/pages/smoothing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
-|K-Nearest Neighbors| [Youtube](https://www.youtube.com/watch?v=bNa9kGXFP2s) | [Chapter9](http://genomicsclass.github.io/book/pages/smoothing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
-|Cross Validation| [Youtube](https://www.youtube.com/watch?v=5Oxd690dd_0) | [Chapter9](http://genomicsclass.github.io/book/pages/crossvalidation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/)
+
+| N  | Lecture Title |  Video | Book | Course | 
+|---|---|---|---|---|
+| 1 | Clustering | [Youtube](https://www.youtube.com/watch?v=NqH8kUfsFGc) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/) |
+| 2 | How Randomness Affects Clustering  | [Youtube](https://www.youtube.com/watch?v=waqcU-Lxc-I) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/) |
+| 3 | Hiearchichal Clustering in R  | [Youtube](https://www.youtube.com/watch?v=3OB4_th9UsA) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/) |
+| 4 | K-Means  | [Youtube](https://www.youtube.com/watch?v=pBYANQH9lLc) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/) |
+| 5 | K-Means Clustering in R | [Youtube](https://www.youtube.com/watch?v=4qODn72BvTo) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/) |
+| 6 | Heat Maps in R | [Youtube](https://www.youtube.com/watch?v=Ffu-Bt_VDEs) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/) |
+| 7 | Gene Clustering | [Youtube](https://www.youtube.com/watch?v=yMubXDjw4Bw) | [Chapter9](http://genomicsclass.github.io/book/pages/clustering_and_heatmaps.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/6551b34198154249bb29f977be995fb4/) |
+| 8 | Conditional Expectations | [Youtube](https://www.youtube.com/watch?v=EzGuqhf5XJU) | [Chapter9](http://genomicsclass.github.io/book/pages/conditional_expectation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/) |
+| 9 | Example: Linear Regression | [Youtube](https://www.youtube.com/watch?v=hRFYRsWJr3k) | [Chapter9](http://genomicsclass.github.io/book/pages/conditional_expectation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/) |
+| 10 | Smoothing | [Youtube](https://www.youtube.com/watch?v=6n0a0H24aJ8) | [Chapter9](http://genomicsclass.github.io/book/pages/smoothing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/) |
+| 11 | K-Nearest Neighbors | [Youtube](https://www.youtube.com/watch?v=bNa9kGXFP2s) | [Chapter9](http://genomicsclass.github.io/book/pages/smoothing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/) |
+| 12 | Cross Validation | [Youtube](https://www.youtube.com/watch?v=5Oxd690dd_0) | [Chapter9](http://genomicsclass.github.io/book/pages/crossvalidation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/) |
+##
+
+
+
+
 
 * **Week 4**
-* |  Lecture Title | Video Link | Book Link | Course Link |
-| ------------- | ------------- | ------------- | ------------- |
-|Confounding| [Youtube](https://www.youtube.com/watch?v=aqUpNV8pgRs) | [Chapter10](http://genomicsclass.github.io/book/pages/confounding.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
-|Confounding in Genomics| [Youtube](https://www.youtube.com/watch?v=f8IM3KfUCH0) | [Chapter10](http://genomicsclass.github.io/book/pages/confounding.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
-|EDA with PCA| [Youtube](https://www.youtube.com/watch?v=4Gnxh5HgJlM) | [Chapter10](http://genomicsclass.github.io/book/pages/eda_with_pca.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
-|Modeling Batch Effects| [Youtube](https://www.youtube.com/watch?v=QE5Qev9AdE8) | [Chapter10](http://genomicsclass.github.io/book/pages/intro_to_batch_effects.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
-|ComBat| [Youtube](https://www.youtube.com/watch?v=YqoG1wt5ZdU) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
-|Factor Analysis| [Youtube](https://www.youtube.com/watch?v=0ixPQr7-eYk) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
-|Motivating Factor Analysis| [Youtube](https://www.youtube.com/watch?v=_7agXi7xdwE) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
-|Surrogate Variable Analysis (SVA)| [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/)
 
-
-* |   |  |  |  |
-| ------------- | ------------- | ------------- | ------------- |
+| N  | Lecture Title |  Video | Book | Course | 
+|---|---|---|---|---|
+| 1 | Confounding | [Youtube](https://www.youtube.com/watch?v=aqUpNV8pgRs) | [Chapter10](http://genomicsclass.github.io/book/pages/confounding.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+| 2 | Confounding in Genomics | [Youtube](https://www.youtube.com/watch?v=f8IM3KfUCH0) | [Chapter10](http://genomicsclass.github.io/book/pages/confounding.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+| 3 | EDA with PCA | [Youtube](https://www.youtube.com/watch?v=4Gnxh5HgJlM) | [Chapter10](http://genomicsclass.github.io/book/pages/eda_with_pca.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+| 4 | Modeling Batch Effects | [Youtube](https://www.youtube.com/watch?v=QE5Qev9AdE8) | [Chapter10](http://genomicsclass.github.io/book/pages/intro_to_batch_effects.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+| 5 | ComBat | [Youtube](https://www.youtube.com/watch?v=YqoG1wt5ZdU) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+| 6 | Factor Analysis | [Youtube](https://www.youtube.com/watch?v=0ixPQr7-eYk) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+| 7 | Motivating Factor Analysis | [Youtube](https://www.youtube.com/watch?v=_7agXi7xdwE) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+| 8 | Surrogate Variable Analysis (SVA) | [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
+##
