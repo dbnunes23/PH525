@@ -80,16 +80,19 @@
 | 2 | Introduction | [Youtube](https://www.youtube.com/watch?v=tPlHbAHVqFQ) | [Chapter 4](http://genomicsclass.github.io/book/pages/intro_using_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/) |
 | 3 | Matrix Notations | [Youtube](https://www.youtube.com/watch?v=EaYkxUwEB-Q) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_notation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/703289b001924ffaa6c13e5f59b10b98/) |
 | 4 | Matrix Operations | [Youtube](https://www.youtube.com/watch?v=-5uvdduYNJM) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_operations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/703289b001924ffaa6c13e5f59b10b98/) |
-
+##
 
 
 * **Week 2** 
-* | Lecture Title  | Video Link | Book Link | Course Link |
-| ------------- | ------------- | ------------- | ------------- |
-|Examples | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
-| Matrix Algebra in Practice I| [Youtube](https://www.youtube.com/watch?v=LniqeWOfTQo) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
-| Matrix Algebra in Practice II| [Youtube](https://www.youtube.com/watch?v=eRXzsXh78rE) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/)
-| Standard Errors| [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/c649ea79c63e432199264f08479e66cf/)
+| N  | Lecture Title |  Video | Book | Course | 
+|---|---|---|---|---|
+| 1 | Examples | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
+| 2 | Matrix Algebra in Practice I | [Youtube](https://www.youtube.com/watch?v=LniqeWOfTQo) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
+| 3 | Matrix Algebra in Practice II | [Youtube](https://www.youtube.com/watch?v=eRXzsXh78rE) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
+| 4 | Standard Errors | [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/c649ea79c63e432199264f08479e66cf/) |
+##
+
+
 
 
 * **Week 3**
