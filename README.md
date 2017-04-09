@@ -84,6 +84,7 @@
 
 
 * **Week 2** 
+
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
 | 1 | Examples | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
